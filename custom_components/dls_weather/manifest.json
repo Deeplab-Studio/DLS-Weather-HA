@@ -1,7 +1,7 @@
 {
   "domain": "dls_weather",
   "name": "DLS Weather",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "documentation": "https://github.com/Deeplab-Studio/DLS-Weather-HA",
   "requirements": [],
   "codeowners": ["@Deeplab-Studio"],
