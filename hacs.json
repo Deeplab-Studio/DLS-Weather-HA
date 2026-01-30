@@ -1,0 +1,7 @@
+{
+  "name": "DLS Weather",
+  "content_in_root": false,
+  "domains": ["sensor"],
+  "country": ["TR"],
+  "render_readme": true
+}

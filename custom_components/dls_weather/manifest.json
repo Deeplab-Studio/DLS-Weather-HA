@@ -1,11 +1,11 @@
 {
   "domain": "dls_weather",
-  "name": "DLS Weather Station",
+  "name": "DLS Weather",
   "version": "1.0.0",
   "documentation": "https://github.com/Deeplab-Studio/DLS-Weather-HA",
   "requirements": [],
-  "dependencies": [],
   "codeowners": ["@Deeplab-Studio"],
   "config_flow": true,
-  "iot_class": "local_polling"
+  "iot_class": "local_polling",
+  "icon": "mdi:weather-partly-cloudy"
 }
